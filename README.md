@@ -1,4 +1,15 @@
-### Hi there 👋
+# Hi there 👋 My name is Ryan.
+
+I am an aspiring Data/Financial Analyst. Passionate about solving complex problems and placing myself in situations where I can take on challenges. 
+
+### 🌱 Courses I am currently taking
+- [Python for Financial Analysis and Algorithmic Trading on Udemy](https://www.udemy.com/course/python-for-finance-and-trading-algorithms/)
+- [Harvard's CS50 Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science)
+- [Data Science and Machine Learning Bootcamp with R](https://www.udemy.com/course/data-science-and-machine-learning-bootcamp-with-r/)
+
+## Languages and Tools
+
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
 
 <!--
 **rdang4/rdang4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
