@@ -8,7 +8,7 @@ I am an aspiring Data/Financial Analyst. Passionate about solving complex proble
 - [Data Science and Machine Learning Bootcamp with R](https://www.udemy.com/course/data-science-and-machine-learning-bootcamp-with-r/)
 
 ## Languages and Tools
-
+<img height="50" src="https://github.com/rdang4/rdang4/blob/main/java_logo.svg"><img>
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
 
 <!--
