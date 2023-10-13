@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="IMG/bitmoji.png" width="150">
+<img src="IMG/bitmoji.png" width="200">
 
 I am an aspiring Data/Financial Analyst. Passionate about solving complex problems and placing myself in situations where I can take on challenges. 
 
