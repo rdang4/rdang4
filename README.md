@@ -5,7 +5,7 @@ I am an aspiring Data/Financial Analyst. Passionate about solving complex proble
 ### 🌱 Courses I am currently taking
 - [Python for Financial Analysis and Algorithmic Trading on Udemy](https://www.udemy.com/course/python-for-finance-and-trading-algorithms/)
 - [Harvard's CS50 Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science)
-- [Data Science and Machine Learning Bootcamp with R](https://www.udemy.com/course/data-science-and-machine-learning-bootcamp-with-r/)
+- [Data Science and Machine Learning Bootcamp with R on Udemy](https://www.udemy.com/course/data-science-and-machine-learning-bootcamp-with-r/)
 
 ## Languages and Tools
 <img title="Java" alt="Java" src="assets/java_logo.svg" width="70" height="50"><img> 
