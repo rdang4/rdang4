@@ -8,7 +8,8 @@ I am an aspiring Data/Financial Analyst. Passionate about solving complex proble
 - [Data Science and Machine Learning Bootcamp with R](https://www.udemy.com/course/data-science-and-machine-learning-bootcamp-with-r/)
 
 ## Languages and Tools
-<img height="50" src="https://github.com/rdang4/rdang4/blob/main/java_logo.svg"><img>
+<img title="Java" alt="Java" src="assets/java_logo.svg" width="70" height="50"><img> 
+<a href="https://www.stata.com/" target="_blank"><img style="margin: 10px" src="assets/stata_logo.svg" alt="STATA" width="70" height="50" /></a>
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
 
 <!--
@@ -24,4 +25,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<img width="50" src="https://github.com/v-sudo29/v-sudo29/blob/main/html5-plain.svg"><img>
 -->
