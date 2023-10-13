@@ -1,8 +1,12 @@
 # Hi there 👋 My name is Ryan.
 
+<br>
+
+<img src="IMG/bitmoji.png" width="150">
+
 I am an aspiring Data/Financial Analyst. Passionate about solving complex problems and placing myself in situations where I can take on challenges. 
 
-Recent graduate with a Bachelors in Economics with courses focused on econometrics, statistics, and data gathering/collection. I became intrigued by the concept of collecting extensive data. I decided to further my education and this lead me to engage in projects to explore this interest by learning more about SQL, Python, and R. 
+Recent graduate with a Bachelors in Economics with courses focused on econometrics, statistics, and data gathering/collection. I became intrigued by the concept of collecting extensive data and wanted to continuously learn more. I decided to further my education and this lead me to engage in projects and courses by learning more about SQL, Python, and R. 
 
 ### 🌱 Courses I am currently taking
 - [Python for Financial Analysis and Algorithmic Trading on Udemy](https://www.udemy.com/course/python-for-finance-and-trading-algorithms/)
