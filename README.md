@@ -40,5 +40,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<img width="50" src="https://github.com/v-sudo29/v-sudo29/blob/main/html5-plain.svg"><img>
+
 -->
