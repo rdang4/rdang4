@@ -21,6 +21,8 @@ Recent graduate with a Bachelors in Economics with courses focused on econometri
 ## Hobbies
 - 🎥 Video Editing
 - 🎮 Gaming
+- ✍️ Drawing
+- 📺 Watching Anime
 - 🏋️‍♂️ Picking things up and putting them down
 
 
