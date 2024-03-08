@@ -12,7 +12,7 @@ Recent graduate with a Bachelors in Economics with courses focused on econometri
 - [Python for Financial Analysis and Algorithmic Trading on Udemy](https://www.udemy.com/course/python-for-finance-and-trading-algorithms/)
 - [Harvard's CS50 Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science)
 - [Data Science and Machine Learning Bootcamp with R on Udemy](https://www.udemy.com/course/data-science-and-machine-learning-bootcamp-with-r/)
-- [Google Data Analytics Professional Certificate](www.coursera.org/google-certificates/data-analytics-certificate)
+- [Google Data Analytics Professional Certificate](https://www.coursera.org/google-certificates/data-analytics-certificate)
 
 ## Languages and Tools
 <img title="Java" alt="Java" src="assets/java_logo.svg" width="70" height="50"><img> 
