@@ -19,6 +19,7 @@ Recent graduate with a Bachelors in Economics with courses focused on econometri
 <a href="https://www.stata.com/" target="_blank"><img style="margin: 10px" src="assets/stata_logo.svg" alt="STATA" width="70" height="50" /></a>
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
 <a href="https://public.tableau.com/app/discover" target="_blank"><img style="margin: 10px" src="assets/tableau_logo.svg" alt="Tableau" height="50" /></a>
+<a href="https://cloud.google.com/bigquery/docs" target="_blank"><img style="margin: 10px" src="assets/big_query_logo.svg" alt="BigQuery" height="50" /></a>
 
 ## Hobbies
 - 🎥 Video Editing
